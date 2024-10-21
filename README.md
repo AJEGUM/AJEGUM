@@ -2,8 +2,7 @@
 Julian Guevara🏀</a></h1>
 <h3 align="center">A passionate software developer from Colombia</h3>
 
-[![Dise-o-sin-t-tulo-1.png](https://i.postimg.cc/MTWy0Ps9/Dise-o-sin-t-tulo-1.png)](https://www.youtube.com/watch?v=Xy8W0kWEOXg)
-
+[![Dise-o-sin-t-tulo-1.png](https://i.postimg.cc/MTWy0Ps9/Dise-o-sin-t-tulo-1.png)]()
 
 
 <h3 align="center">Languages and Tools:</h3>
@@ -23,17 +22,21 @@ Julian Guevara🏀</a></h1>
 
 </p>
 
-##
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-    <a href="https://www.linkedin.com/in/sudip-mondal-374a12201/" target="blank"><img align="center"
-            src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40"
-            width="40" /></a>
-    <a href="https://www.instagram.com/sudip._.mondal/" target="blank"><img align="center"
-            src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="instagram" height="40"
-            width="40" /></a>
+
+<h3 align="center">STUDIES:</h3>
+
+
+
+<p align="center"  target="_blank">
+    <a href="https://www.upb.edu.co/es/universidad/nuestro-campus/campus-palmira">Universidad Pontificia Bolivariana - Asistente en Programacion de Software (2023) <br></a>
+    <a href="https://cbisenapalmira.blogspot.com/">SENA Centro de Biotecnologia Industrial Palmira - Analisis y Desarrollo de Software (En Curso)</a>
+
+
+    
+    
+    
 </p>
 
+
 ------
-Credit: [sudip-mondal-2002](https://github.com/sudip-mondal-2002)
-Last Edited on: 11-06-2021
+
