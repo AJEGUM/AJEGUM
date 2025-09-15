@@ -15,8 +15,11 @@
 
 ## 🚀 ¿Qué estoy haciendo?
 
-- 🧠 Sistema de **citas psicológicas** con login, roles, asignación de horarios y notificaciones en tiempo real.
-- 🛒 **Ecommerce Bike Store** con login, venta de productos y panel de administración.
+- **(Bienestar te acompaña):** Plataforma para la gestión de citas psicológicas, con sistema de login y control de roles. Incluye asignación de horarios, panel de administración y una página informativa dedicada al área de bienestar.
+  
+- **(Bike Store):** Sistema de ventas en línea para productos relacionados con bicicletas. Cuenta con un panel de administración para la gestión de inventario y un panel de superusuario para el control total de la plataforma.
+  
+- **(Simula Caja):** Simulador bancario con transacciones en tiempo real. El proyecto permite además la creación de salas colaborativas para que los aprendices se unan, así como la gestión de solicitudes de cambio dirigidas al supervisor.
 
 ---
 
